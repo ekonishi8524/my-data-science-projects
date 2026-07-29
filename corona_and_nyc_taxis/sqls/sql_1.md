@@ -1,4 +1,4 @@
-## sql_1_1
+## query_1_1
 
 ```sql
 SELECT
@@ -18,7 +18,7 @@ ORDER BY
   ride_date ASC;
 ```
 
-## sql_1_2
+## query_1_2
 
 ```sql
 SELECT
