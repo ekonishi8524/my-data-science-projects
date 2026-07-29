@@ -1,4 +1,4 @@
-## sql_2_1
+## query_2_1
 
 ```sql
 WITH taxi_base AS (
@@ -39,7 +39,7 @@ ORDER BY
   pickup_hour;
 ```
 
-## sql_2_2
+## query_2_2
 
 ```sql
 SELECT
@@ -66,7 +66,7 @@ ORDER BY
   pickup_hour;
 ```
 
-## sql_2_3
+## query_2_3
 
 ```sql
 SELECT
@@ -88,7 +88,7 @@ ORDER BY
   pickup_month, day_of_week, pickup_hour;
 ```
 
-## sql_2_4
+## query_2_4
 
 ```sql
 WITH jfk_trips AS (
