@@ -65,6 +65,9 @@
 │   ├── corona_2.png
 │   ├── corona_3.png
 │   └── corona_4.png
+├── sqls/
+│   ├── sql_1.md
+│   └── sql_2.md
 ├── requirements.txt
 └── README.md
 ```
